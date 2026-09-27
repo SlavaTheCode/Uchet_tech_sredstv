@@ -1,0 +1,14 @@
+D:\VS\Source\repos\Uchet_tech_sredstv\bin\Debug\Database1.mdf
+D:\VS\Source\repos\Uchet_tech_sredstv\bin\Debug\Database1_log.ldf
+D:\VS\Source\repos\Uchet_tech_sredstv\bin\Debug\Uchet_tech_sredstv.exe.config
+D:\VS\Source\repos\Uchet_tech_sredstv\bin\Debug\Uchet_tech_sredstv.exe
+D:\VS\Source\repos\Uchet_tech_sredstv\bin\Debug\Uchet_tech_sredstv.pdb
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.csproj.AssemblyReference.cache
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.Form1.resources
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.Properties.Resources.resources
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.csproj.GenerateResource.cache
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.csproj.CoreCompileInputs.cache
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.exe
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.pdb
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.Form2.resources
+D:\VS\Source\repos\Uchet_tech_sredstv\obj\Debug\Uchet_tech_sredstv.Form3.resources
